@@ -9,10 +9,6 @@ nav{
     margin-right: 50px;
     margin-top: 10px;
 }
-nav h1{
-    margin-left: 50px;
-    font-size: 3rem;
-}
 nav a{
     color: white;
     margin: 5px;
@@ -117,4 +113,8 @@ img:hover{
  }
  .icon { 
     font-size: 25px;
+ }
+ .logo{
+    display: inline;
+    display: flex;
  }
