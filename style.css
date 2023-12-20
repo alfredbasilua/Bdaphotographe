@@ -11,7 +11,9 @@ nav{
 }
 nav a{
     color: white;
-    margin: 5px;
+    margin: 10px;
+   
+   
 }
 a:active{
     font-size: 5rem;
@@ -37,7 +39,7 @@ a{
     margin: 70px;
 }
 div h1{
-    font-size: 4rem;
+    font-size: 6rem;
 }
 .min-centre{
     margin-right: 55px;
@@ -115,17 +117,26 @@ img:hover{
     font-size: 25px;
  }
  .logo{
-    display: inline;
+
     display: flex;
  }
  .pho{
     font-size: 30rem;
     background-color: rgba(220, 20, 60, 0.521);
     border-radius: 50%;
-    height: 550px;
+    height: 480px;
     justify-content: center;
     padding-top: 30px;
-    margin: 20px;
-    margin-top: 10PX;
+    margin-bottom: 55px;
+ 
+
+  
    
+ }
+ .logo h1{
+    font-size: 2rem;
+    margin-top: 10px;
+ }
+ .lien {
+    margin-top: 20px;
  }
